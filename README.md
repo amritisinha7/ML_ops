@@ -1,2 +1,2 @@
-# ML_oops
+# ML_ops
 Learning MLOPs
